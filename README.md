@@ -1,6 +1,6 @@
 ## Привет!
 
-Меня зовут Софья, я начинающий Frontend-разработчик.
+Меня зовут Софья, я начинающий Frontend-разработчик и верстальщик.
 
 ---
 
@@ -14,11 +14,16 @@
 
 ### Технологии
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" /><img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" /><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" /><img src="https://img.shields.io/badge/Twig-BACF29?style=for-the-badge&logo=symfony&logoColor=black" /><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" /><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" /><img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" />
 
 ---
 
 ### Проекты
+
+#### VetCare
+Многостраничный адаптивный сайт ветеринарной клиники: каталог услуг с фильтром, модальные окна, форма записи. Компонентная вёрстка с единой системой дизайн-токенов.
+**Стек:** HTML5, Twig, SCSS (БЭМ, миксины, дизайн-токены), Flexbox, Grid, Gulp, Vanilla JS (ES-модули).
+[Ссылка на проект](https://github.com/SonnikD/vetcare-clinic) · [Демо](https://sonnikd.github.io/vetcare-clinic/)
 
 #### Stellar Burgers
 SPA-приложение космической бургерной: конструктор бургера, лента заказов, личный кабинет с историей заказов и авторизацией.
@@ -28,7 +33,7 @@ SPA-приложение космической бургерной: констр
 #### Каталог землетрясений
 Адаптивный веб-интерфейс для фильтрации и просмотра сейсмологических данных.
 **Стек:** HTML5, CSS3 (Flexbox, Grid, Custom Properties, БЭМ), Vanilla JS (ES-модули), noUiSlider.
-[Ссылка на проект](https://github.com/SonnikD/seismic-catalog)
+[Ссылка на проект](https://github.com/SonnikD/seismic-catalog) · [Демо](https://sonnikd.github.io/seismic-catalog/)
 
 #### Закрывающий тег
 Адаптивная страница с двумя цветовыми темами, анимациями и модальным окном. Свёрстана по макету Figma.
