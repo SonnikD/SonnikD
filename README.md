@@ -38,7 +38,7 @@ SPA-приложение космической бургерной: констр
 #### Закрывающий тег
 Адаптивная страница с двумя цветовыми темами, анимациями и модальным окном. Свёрстана по макету Figma.
 **Стек:** HTML5, CSS3, Vanilla JS, БЭМ.
-[Ссылка на проект](https://github.com/SonnikD/zakrivayuschiy-teg-f)
+[Ссылка на проект](https://github.com/SonnikD/zakrivayuschiy-teg-f) · [Демо](https://sonnikd.github.io/zakrivayuschiy-teg-f/)
 
 ---
 
